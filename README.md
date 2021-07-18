@@ -6,7 +6,7 @@ https://nppackages.github.io/replication
 
 ## Simulations
 
-- R replication files: [Readme](README.txt) | [Density Estimation](simuls_kd.R) | [Regression Estimation](simuls_lp.R) | [Functions](/functions)
+- R replication files: [Readme](README.txt) | [Density Estimation](CCF_2018_JASA_simuls_kd.R) | [Regression Estimation](CCF_2018_JASA_simuls_lp.R) | [Functions](/functions)
 
 ## Reference
 

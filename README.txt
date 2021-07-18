@@ -9,7 +9,7 @@ This repository includes R scripts to replicate the simulation study reported in
 
 Kernel Density Estimation:
 
-1) Replication file is "simuls_kd.R" (the other scripts are called by this file). Choices are: model (model = 1,2,3,4), evaluation point (eval = 1,2,3,4,5) and three scripts for different tables:
+1) Replication file is "CCF_2018_JASA_simuls_kd.R" (the other scripts are called by this file). Choices are: model (model = 1,2,3,4), evaluation point (eval = 1,2,3,4,5) and three scripts for different tables:
 
 	(a) simuls_kd_grid.R: to run simulations over a bandwidth grid.
 
@@ -23,7 +23,7 @@ Kernel Density Estimation:
 
 Local Polynomial Estimation:
 
-1) Replication file is "simuls_lp.R" (the other scripts are called by this file). Choices are: and model (model 1,2,3,4,5,6), evaluation point (eval = 1,2,3,4,5) and three scripts for different tables:
+1) Replication file is "CCF_2018_JASA_simuls_lp.R" (the other scripts are called by this file). Choices are: and model (model 1,2,3,4,5,6), evaluation point (eval = 1,2,3,4,5) and three scripts for different tables:
 
 	(a) simuls_lp_grid.R: to run simulations over a bandwidth grid.
 
