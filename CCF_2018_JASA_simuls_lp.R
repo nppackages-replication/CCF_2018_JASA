@@ -12,7 +12,6 @@ library(ggplot2)
 library(reshape)
 library(grid)
 
-setwd ("C:/Users/scalonico/Dropbox/2017/nprobust/simuls/jasa/replications/")
 
 n      = 500
 sim    = 5000

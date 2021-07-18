@@ -4,7 +4,6 @@ library("nor1mix")
 library(Hmisc)
 library(nprobust)
 
-setwd ("C:/Users/nsc19/Dropbox/2017/nprobust/simuls/jasa/replications")
 
 n     = 500
 kernel= "epa"
